@@ -1,0 +1,20 @@
+{
+  "name": "Calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Th0rt/Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Th0rt/Calculator/issues"
+  },
+  "homepage": "https://github.com/Th0rt/Calculator#readme"
+}
